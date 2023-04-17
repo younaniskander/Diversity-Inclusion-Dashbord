@@ -4,7 +4,7 @@
 ![5](https://user-images.githubusercontent.com/87044703/232543312-d3e2023e-2dea-4406-a574-792be12b3086.jpg)
 ![6](https://user-images.githubusercontent.com/87044703/232543318-e919719a-bc2c-4355-86a3-fa4e8766669d.jpg)
   # 💡 Here is a hint: 
-    ----------
+    
 ### Calculating the following measures could help to define proper KPIs:
 
 #of men
